@@ -1,0 +1,116 @@
+  DATUM 1  (D73       )    --->  DATUM 2  (ETRS89    )
+
+     A1        Q. EXC1      A2        Q. EXC2
+   6378388.0  .00672267   6378137.0  .00669438
+
+ 
+
+      N. DO PONTO            RESIDUOS (m)
+
+                             (VX/VY/VZ)
+
+       6  LAROUCO-TF25    
+                                -.344
+                                 .890
+                                 .397
+       10 STA LUZIA       
+                                -.720
+                                 .368
+                                1.105
+       15 LUZ             
+                                 .234
+                                 .739
+                                -.393
+       28 LEOMIL-TF14     
+                                -.181
+                                 .089
+                                -.106
+       32 PRAIA DE MIRA   
+                                 .191
+                                -.353
+                                 .387
+       34 SRA DO CASTELO-E
+                                 .326
+                                -.466
+                                 .025
+       45 GARDUNHA-PS     
+                                -.255
+                                -.216
+                                -.415
+       47 MEZAS           
+                                 .176
+                                -.227
+                                -.335
+       53 MELRIÇA -TF4    
+                                 .135
+                                -.466
+                                -.252
+       55 CABEÇO ALTO     
+                                 .213
+                                -.467
+                                -.393
+       59 AIRE-TF6        
+                                 .091
+                                -.318
+                                -.309
+       72 ATALAIA DA CONTE
+                                 .188
+                                -.694
+                                 .029
+       73 MONGE           
+                                 .382
+                                -.358
+                                -.372
+       78 CAIXEIRO        
+                                 .235
+                                -.516
+                                -.078
+       91 MENTIRAS-PE     
+                                -.255
+                                -.380
+                                 .021
+       94 ALJUSTREL-TF33  
+                                -.080
+                                 .132
+                                -.132
+       99 CERCAL-TF32     
+                                 .136
+                                 .353
+                                -.271
+      114 CABEÇA          
+                                -.115
+                                 .268
+                                 .888
+      115 TORRE DE ASPA-PE
+                                -.109
+                                1.232
+                                -.213
+      119 STA MARIA-EXC   
+                                -.249
+                                 .388
+                                 .418
+
+      SOMA DOS QUADRADOS DOS RESIDUOS =      10.345
+
+      N. GRAUS LIB. = 53
+
+      E.M.Q. DA UNIDADE DE PESO =      .442
+
+
+
+    PARAMETROS DA TRANSF.    &    E.M.Q. DOS PARAMETROS
+
+      DX(m)      ==>    -239.094        3.994
+
+      DY(m)      ==>      90.349        9.387
+
+      DZ(m)      ==>      27.952        3.680
+
+      ALFA(ppm)  ==>       2.440         .542
+
+      EX(seg)    ==>       -.301         .209
+
+      EY(seg)    ==>       -.008         .132
+
+      EZ(seg)    ==>      -1.157         .249
+

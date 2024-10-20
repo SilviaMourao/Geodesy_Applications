@@ -1,0 +1,76 @@
+  DATUM 1  (D73       )    --->  DATUM 2  (ETRS89    )
+
+     A1        Q. EXC1      A2        Q. EXC2
+   6378388.0  .00672267   6378137.0  .00669438
+
+ 
+
+      N. DO PONTO            RESIDUOS (m)
+
+                             (VX/VY/VZ)
+
+       11 OURAL-PS        
+                                -.346
+                                 .528
+                                 .532
+       22 FONTE LONGA-TF16
+                                 .066
+                                 .437
+                                -.172
+       39 BUÇACO          
+                                -.183
+                                -.263
+                                -.149
+       53 MELRIÇA -TF4    
+                                 .179
+                                -.492
+                                -.284
+       61 CABEÇA GORDA    
+                                 .400
+                                -.403
+                                -.099
+       79 ARRAIOLOS       
+                                 .086
+                                -.446
+                                -.228
+       82 PALMELA         
+                                 .460
+                                -.306
+                                -.201
+      100 BARRADINHA-PW   
+                                 .083
+                                 .118
+                                 .084
+      108 FOIA-TF36       
+                                -.501
+                                 .698
+                                -.215
+      113 ALCARIA DO CUME-
+                                -.244
+                                 .129
+                                 .733
+
+      SOMA DOS QUADRADOS DOS RESIDUOS =       3.751
+
+      N. GRAUS LIB. = 23
+
+      E.M.Q. DA UNIDADE DE PESO =      .404
+
+
+
+    PARAMETROS DA TRANSF.    &    E.M.Q. DOS PARAMETROS
+
+      DX(m)      ==>    -227.316        6.040
+
+      DY(m)      ==>     102.259       20.373
+
+      DZ(m)      ==>      23.978        4.964
+
+      ALFA(ppm)  ==>       1.631         .754
+
+      EX(seg)    ==>       -.495         .433
+
+      EY(seg)    ==>        .325         .186
+
+      EZ(seg)    ==>       -.788         .527
+

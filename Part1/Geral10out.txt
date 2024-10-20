@@ -1,0 +1,76 @@
+  DATUM 1  (D73       )    --->  DATUM 2  (ETRS89    )
+
+     A1        Q. EXC1      A2        Q. EXC2
+   6378388.0  .00672267   6378137.0  .00669438
+
+ 
+
+      N. DO PONTO            RESIDUOS (m)
+
+                             (VX/VY/VZ)
+
+       10 STA LUZIA       
+                                -.543
+                                 .286
+                                1.141
+       15 LUZ             
+                                 .327
+                                 .629
+                                -.453
+       28 LEOMIL-TF14     
+                                -.075
+                                -.010
+                                -.121
+       45 GARDUNHA-PS     
+                                -.189
+                                -.323
+                                -.442
+       53 MELRIÇA -TF4    
+                                 .204
+                                -.570
+                                -.259
+       72 ATALAIA DA CONTE
+                                 .196
+                                -.815
+                                -.022
+       73 MONGE           
+                                 .457
+                                -.455
+                                -.332
+       94 ALJUSTREL-TF33  
+                                -.084
+                                 .013
+                                -.149
+      114 CABEÇA          
+                                -.172
+                                 .133
+                                 .839
+      115 TORRE DE ASPA-PE
+                                -.121
+                                1.112
+                                -.202
+
+      SOMA DOS QUADRADOS DOS RESIDUOS =       6.479
+
+      N. GRAUS LIB. = 23
+
+      E.M.Q. DA UNIDADE DE PESO =      .531
+
+
+
+    PARAMETROS DA TRANSF.    &    E.M.Q. DOS PARAMETROS
+
+      DX(m)      ==>    -239.944        6.459
+
+      DY(m)      ==>      86.683       14.495
+
+      DZ(m)      ==>      30.234        5.907
+
+      ALFA(ppm)  ==>       2.260         .852
+
+      EX(seg)    ==>       -.216         .323
+
+      EY(seg)    ==>       -.087         .217
+
+      EZ(seg)    ==>      -1.232         .387
+
