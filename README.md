@@ -1,7 +1,7 @@
 # Geodesy and Applications - Geoid Modeling and Geodetic Network Adjustment  
 **Institution**: Faculdade de Ciências da Universidade de Lisboa  
 **Course**: Geodesy and Applications  
-**Project Date**: 2022  
+**Project Date**: 2021  
 **Project Language**: Portuguese
 
 ## Project Overview
