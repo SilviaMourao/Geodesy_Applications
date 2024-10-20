@@ -1,0 +1,116 @@
+  DATUM 1  (D73       )    --->  DATUM 2  (ETRS89    )
+
+     A1        Q. EXC1      A2        Q. EXC2
+   6378388.0  .00672267   6378137.0  .00669438
+
+ 
+
+      N. DO PONTO            RESIDUOS (m)
+
+                             (VX/VY/VZ)
+
+       76 S. TORCATO      
+                                 .023
+                                -.095
+                                 .187
+       79 ARRAIOLOS       
+                                -.128
+                                 .054
+                                -.142
+       80 OSSA-TF29       
+                                -.120
+                                 .074
+                                -.114
+       82 PALMELA         
+                                 .081
+                                -.187
+                                 .075
+       84 SERRINHA-PE     
+                                 .029
+                                 .005
+                                 .097
+       86 CARRASCAIS      
+                                -.018
+                                 .018
+                                -.098
+       88 MENDRO-TF31     
+                                -.027
+                                 .039
+                                -.091
+       89 S. VICENTE-PSE  
+                                -.115
+                                 .051
+                                -.145
+       90 MONSARAZ        
+                                 .199
+                                 .032
+                                 .118
+       91 MENTIRAS-PE     
+                                 .163
+                                 .015
+                                 .054
+       92 ATALAIA DE GRÂND
+                                -.054
+                                -.038
+                                -.147
+       93 BARROS-PE       
+                                 .081
+                                 .052
+                                -.072
+       94 ALJUSTREL-TF33  
+                                 .087
+                                 .105
+                                 .020
+       95 ATALAIA GORDA   
+                                 .029
+                                -.046
+                                -.005
+       96 BEJA            
+                                -.003
+                                 .038
+                                -.033
+       97 GUADALUPE       
+                                -.003
+                                -.111
+                                -.006
+      100 BARRADINHA-PW   
+                                 .032
+                                 .079
+                                 .022
+      104 ALCARIA RUIVA-TF
+                                -.087
+                                -.032
+                                 .089
+      105 URZA-PS         
+                                 .017
+                                -.071
+                                 .164
+      111 QUINTÃ-PW       
+                                -.187
+                                 .016
+                                 .024
+
+      SOMA DOS QUADRADOS DOS RESIDUOS =        .485
+
+      N. GRAUS LIB. = 53
+
+      E.M.Q. DA UNIDADE DE PESO =      .096
+
+
+
+    PARAMETROS DA TRANSF.    &    E.M.Q. DOS PARAMETROS
+
+      DX(m)      ==>    -244.969        2.759
+
+      DY(m)      ==>     103.735        3.511
+
+      DZ(m)      ==>       2.700        3.031
+
+      ALFA(ppm)  ==>       5.857         .375
+
+      EX(seg)    ==>        .145         .095
+
+      EY(seg)    ==>        .427         .107
+
+      EZ(seg)    ==>       -.356         .101
+
