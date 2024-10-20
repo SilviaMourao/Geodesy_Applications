@@ -74,7 +74,7 @@ The project is organized into the following folders:
 - **Part2/**: Contains the data and files used for Part 2 (geodetic network adjustment).
 - **Part3/**: Contains the data and files used for Part 3 (geoid determination).
 - **report.pdf**: Full report detailing the methodology and results.
-- **residuals.xlsx**: Analysis of the results, including residuals from the geoid determination.
+- **residuals.xlsx**: Analysis of the results.
 
 ---
 
